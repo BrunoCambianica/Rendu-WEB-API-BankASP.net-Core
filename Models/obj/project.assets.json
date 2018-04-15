@@ -6079,11 +6079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno Cambianica\\source\\repos\\Bank\\Models\\BankModels.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno Cambianica\\Documents\\GitHub\\BankASP.net-Core\\Models\\BankModels.csproj",
       "projectName": "BankModels",
-      "projectPath": "C:\\Users\\Bruno Cambianica\\source\\repos\\Bank\\Models\\BankModels.csproj",
+      "projectPath": "C:\\Users\\Bruno Cambianica\\Documents\\GitHub\\BankASP.net-Core\\Models\\BankModels.csproj",
       "packagesPath": "C:\\Users\\Bruno Cambianica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno Cambianica\\source\\repos\\Bank\\Models\\obj\\",
+      "outputPath": "C:\\Users\\Bruno Cambianica\\Documents\\GitHub\\BankASP.net-Core\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6102,8 +6102,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Bruno Cambianica\\source\\repos\\Bank\\Resources\\Resources.csproj": {
-              "projectPath": "C:\\Users\\Bruno Cambianica\\source\\repos\\Bank\\Resources\\Resources.csproj"
+            "C:\\Users\\Bruno Cambianica\\Documents\\GitHub\\BankASP.net-Core\\Resources\\Resources.csproj": {
+              "projectPath": "C:\\Users\\Bruno Cambianica\\Documents\\GitHub\\BankASP.net-Core\\Resources\\Resources.csproj"
             }
           }
         }

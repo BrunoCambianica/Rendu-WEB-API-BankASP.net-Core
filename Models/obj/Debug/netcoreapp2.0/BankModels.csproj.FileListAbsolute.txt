@@ -11,3 +11,19 @@ C:\Users\BRUNO\source\repos\Bank\Models\obj\Debug\netcoreapp2.0\BankModels.Assem
 C:\Users\BRUNO\source\repos\Bank\Models\obj\Debug\netcoreapp2.0\BankModels.AssemblyInfo.cs
 C:\Users\BRUNO\source\repos\Bank\Models\obj\Debug\netcoreapp2.0\BankModels.dll
 C:\Users\BRUNO\source\repos\Bank\Models\obj\Debug\netcoreapp2.0\BankModels.pdb
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\bin\Debug\netcoreapp2.0\BankModels.deps.json
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\bin\Debug\netcoreapp2.0\BankModels.dll
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\bin\Debug\netcoreapp2.0\BankModels.pdb
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\bin\Debug\netcoreapp2.0\Resources.dll
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\bin\Debug\netcoreapp2.0\Resources.pdb
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.RESX.Resource.resources
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.csproj.GenerateResource.cache
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.AssemblyInfoInputs.cache
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.AssemblyInfo.cs
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.csproj.CopyComplete
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.dll
+C:\Users\Bruno Cambianica\Documents\GitHub\BankASP.net-Core\Models\obj\Debug\netcoreapp2.0\BankModels.pdb
