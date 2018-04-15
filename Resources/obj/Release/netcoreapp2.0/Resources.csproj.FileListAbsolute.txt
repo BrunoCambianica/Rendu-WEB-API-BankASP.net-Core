@@ -1,0 +1,23 @@
+C:\Users\BRUNO\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Resources.deps.json
+C:\Users\BRUNO\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Resources.dll
+C:\Users\BRUNO\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Resources.pdb
+C:\Users\BRUNO\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.csprojResolveAssemblyReference.cache
+C:\Users\BRUNO\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.AssemblyInfoInputs.cache
+C:\Users\BRUNO\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.AssemblyInfo.cs
+C:\Users\BRUNO\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.dll
+C:\Users\BRUNO\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.pdb
+C:\Users\BRUNO\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\BRUNO\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Resources.deps.json
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Resources.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Resources.pdb
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.AssemblyInfoInputs.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.AssemblyInfo.cs
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.csproj.CopyComplete
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Resources\obj\Release\netcoreapp2.0\Resources.pdb
