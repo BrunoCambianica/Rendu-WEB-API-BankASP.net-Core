@@ -1,0 +1,31 @@
+C:\Users\BRUNO\source\repos\Bank\Models\bin\Release\netcoreapp2.0\BankModels.deps.json
+C:\Users\BRUNO\source\repos\Bank\Models\bin\Release\netcoreapp2.0\BankModels.dll
+C:\Users\BRUNO\source\repos\Bank\Models\bin\Release\netcoreapp2.0\BankModels.pdb
+C:\Users\BRUNO\source\repos\Bank\Models\bin\Release\netcoreapp2.0\Resources.dll
+C:\Users\BRUNO\source\repos\Bank\Models\bin\Release\netcoreapp2.0\Resources.pdb
+C:\Users\BRUNO\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.csprojResolveAssemblyReference.cache
+C:\Users\BRUNO\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.RESX.Resource.resources
+C:\Users\BRUNO\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.csproj.GenerateResource.Cache
+C:\Users\BRUNO\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.AssemblyInfoInputs.cache
+C:\Users\BRUNO\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.AssemblyInfo.cs
+C:\Users\BRUNO\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.dll
+C:\Users\BRUNO\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.pdb
+C:\Users\BRUNO\source\repos\Bank\Models\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\BRUNO\source\repos\Bank\Models\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\bin\Release\netcoreapp2.0\BankModels.deps.json
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\bin\Release\netcoreapp2.0\BankModels.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\bin\Release\netcoreapp2.0\BankModels.pdb
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\bin\Release\netcoreapp2.0\Resources.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\bin\Release\netcoreapp2.0\Resources.pdb
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.RESX.Resource.resources
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.csproj.GenerateResource.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.AssemblyInfoInputs.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.AssemblyInfo.cs
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.csproj.CopyComplete
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Models\obj\Release\netcoreapp2.0\BankModels.pdb
