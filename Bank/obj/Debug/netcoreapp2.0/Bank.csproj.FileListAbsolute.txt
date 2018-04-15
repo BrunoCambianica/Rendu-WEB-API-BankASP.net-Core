@@ -1,0 +1,15 @@
+c:\users\bruno\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\Bank.deps.json
+c:\users\bruno\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\Bank.runtimeconfig.json
+c:\users\bruno\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\Bank.runtimeconfig.dev.json
+c:\users\bruno\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\Bank.dll
+c:\users\bruno\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\Bank.pdb
+c:\users\bruno\source\repos\Bank\Bank\obj\Debug\netcoreapp2.0\Bank.csprojResolveAssemblyReference.cache
+c:\users\bruno\source\repos\Bank\Bank\obj\Debug\netcoreapp2.0\Bank.csproj.CoreCompileInputs.cache
+c:\users\bruno\source\repos\Bank\Bank\obj\Debug\netcoreapp2.0\Bank.AssemblyInfoInputs.cache
+c:\users\bruno\source\repos\Bank\Bank\obj\Debug\netcoreapp2.0\Bank.AssemblyInfo.cs
+c:\users\bruno\source\repos\Bank\Bank\obj\Debug\netcoreapp2.0\Bank.dll
+c:\users\bruno\source\repos\Bank\Bank\obj\Debug\netcoreapp2.0\Bank.pdb
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\BankModels.dll
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\Resources.dll
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\BankModels.pdb
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Debug\netcoreapp2.0\Resources.pdb

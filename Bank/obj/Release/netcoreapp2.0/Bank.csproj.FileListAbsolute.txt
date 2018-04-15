@@ -1,0 +1,31 @@
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.deps.json
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.runtimeconfig.json
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.runtimeconfig.dev.json
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.dll
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.pdb
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\BankModels.dll
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Resources.dll
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\BankModels.pdb
+C:\Users\BRUNO\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Resources.pdb
+C:\Users\BRUNO\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.csprojResolveAssemblyReference.cache
+C:\Users\BRUNO\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.AssemblyInfoInputs.cache
+C:\Users\BRUNO\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.AssemblyInfo.cs
+C:\Users\BRUNO\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.dll
+C:\Users\BRUNO\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.pdb
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.deps.json
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.runtimeconfig.json
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.runtimeconfig.dev.json
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Bank.pdb
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\BankModels.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Resources.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\BankModels.pdb
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\bin\Release\netcoreapp2.0\Resources.pdb
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.AssemblyInfo.cs
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.csproj.CopyComplete
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.dll
+C:\Users\Bruno Cambianica\source\repos\Bank\Bank\obj\Release\netcoreapp2.0\Bank.pdb
